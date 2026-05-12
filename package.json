@@ -1,6 +1,6 @@
 {
   "name": "@dustydonkey/pi-spinner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Smooth working spinner with shimmering verbs for Pi — inspired by Claude Code",
   "keywords": [
     "pi-package",
