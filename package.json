@@ -1,0 +1,47 @@
+{
+  "name": "@dustydonkey/pi-spinner",
+  "version": "1.0.0",
+  "description": "Smooth working spinner with shimmering verbs for Pi — inspired by Claude Code",
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "spinner",
+    "loading",
+    "animation",
+    "terminal",
+    "tui"
+  ],
+  "license": "MIT",
+  "author": "Harshal <harshal@repeato.in>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshal/pi-spinner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harshal/pi-spinner/issues"
+  },
+  "homepage": "https://github.com/harshal/pi-spinner#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "extensions",
+    "assets",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-tui": "*",
+    "typebox": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ],
+    "video": "https://raw.githubusercontent.com/harshal/pi-spinner/main/assets/demo.mp4",
+    "image": "https://raw.githubusercontent.com/harshal/pi-spinner/main/assets/demo.png"
+  }
+}
