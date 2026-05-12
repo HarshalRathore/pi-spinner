@@ -4,11 +4,9 @@
 
 Replace Pi's default Braille spinner with customizable frame presets, rotating status verbs, and a gentle per-character shimmer effect that pauses when the agent is idle.
 
-https://github.com/user-attachments/assets/pi-spinner-demo.mp4
-
 ## Demo
 
-<video src="https://raw.githubusercontent.com/harshal/pi-spinner/main/assets/demo.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/HarshalRathore/pi-spinner/main/assets/demo.mp4" controls width="100%"></video>
 
 ---
 
