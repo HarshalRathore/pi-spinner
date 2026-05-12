@@ -41,7 +41,7 @@
     "extensions": [
       "./extensions"
     ],
-    "video": "https://raw.githubusercontent.com/harshal/pi-spinner/main/assets/demo.mp4",
-    "image": "https://raw.githubusercontent.com/harshal/pi-spinner/main/assets/demo.png"
+    "video": "https://raw.githubusercontent.com/HarshalRathore/pi-spinner/main/assets/demo.gif",
+    "image": "https://raw.githubusercontent.com/HarshalRathore/pi-spinner/main/assets/demo.gif"
   }
 }

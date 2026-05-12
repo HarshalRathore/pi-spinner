@@ -6,7 +6,7 @@ Replace Pi's default Braille spinner with customizable frame presets, rotating s
 
 ## Demo
 
-<video src="https://raw.githubusercontent.com/HarshalRathore/pi-spinner/main/assets/demo.mp4" controls width="100%"></video>
+![Demo](https://raw.githubusercontent.com/HarshalRathore/pi-spinner/main/assets/demo.gif)
 
 ---
 
