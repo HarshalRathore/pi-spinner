@@ -1,6 +1,6 @@
 {
   "name": "@dustydonkey/pi-spinner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Smooth working spinner with shimmering verbs for Pi — inspired by Claude Code",
   "keywords": [
     "pi-package",
@@ -12,15 +12,15 @@
     "tui"
   ],
   "license": "MIT",
-  "author": "Harshal <harshal@repeato.in>",
+  "author": "Harshal <harshalrathore2014@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harshal/pi-spinner.git"
+    "url": "git+https://github.com/harshalrathore/pi-spinner.git"
   },
   "bugs": {
-    "url": "https://github.com/harshal/pi-spinner/issues"
+    "url": "https://github.com/harshalrathore/pi-spinner/issues"
   },
-  "homepage": "https://github.com/harshal/pi-spinner#readme",
+  "homepage": "https://github.com/harshalrathore/pi-spinner#readme",
   "publishConfig": {
     "access": "public"
   },
